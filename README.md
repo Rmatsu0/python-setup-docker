@@ -2,8 +2,8 @@
 python setup
 
 # command
-cd docker-python/
-docker compose up -d --build
-docker compose exec python3 bash
+cd docker-python/<br>
+docker compose up -d --build<br>
+docker compose exec python3 bash<br>
 
 
