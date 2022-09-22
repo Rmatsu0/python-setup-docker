@@ -8,7 +8,7 @@ def hello():
   print("HelloWorld")
 
 def cat():
-  print("NYAHAHAHA!!")
+  print("NYAHAHAHA!!!")
 
 def isint(s):
   try:
